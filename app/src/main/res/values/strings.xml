@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name" translatable="false">SmartBulter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="text_setting" translatable="false">设置</string>
+    <string name="text_now_login" translatable="false">正在登陆...</string>
+    <string name="text_input_phone" translatable="false">请输入号码</string>
+    <string name="text_query" translatable="false">查询</string>
+    <string name="text_tost_empty" translatable="false">输入框不能为空</string>
+    <string name="text_courier_company" translatable="false">快递公司</string>
+    <string name="text_courier_number" translatable="false">快递单号</string>
+    <string name="text_welfare" translatable="false">福利</string>
+    <string name="text_setting_title_1">语音播报</string>
+    <string name="text_setting_content_1">开启之后与服务管家对讲语音播报</string>
+    <string name="reset_failed">重置密码失败</string>
+    <string name="reset_successfully">重置密码成功</string>
+    <string name="text_two_input_not_consistent">两次输入的密码不一致</string>
+    <string name="text_email_send_ok">邮箱已经发送至：</string>
+    <string name="text_email_send_no">邮箱发送失败</string>
+    <string name="text_setting_title_4">扫一扫</string>
+    <string name="text_setting_title_5">二维码分享</string>
+    <string name="text_setting_title_6">我的位置</string>
+    <string name="text_setting_title_7">关于软件</string>
+    <string name="text_setting_content_4">扫描二维码或者条形码</string>
+    <string name="text_setting_content_5">把自己分享给朋友吧</string>
+    <string name="text_setting_content_6">时刻掌握自身位置</string>
+    <string name="text_setting_content_7">练习Demo</string>
+    <string name="text_unknown">未知</string>
+
+    <string name="text_app_name">应用名:</string>
+    <string name="text_version">版本号:</string>
+    <string name="text_website_address">官网:www.baidu.com</string>
+</resources>
